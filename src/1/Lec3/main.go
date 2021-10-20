@@ -11,6 +11,7 @@ func main() {
 		name string
 	)
 
+	fmt.Println("He")
 	// fmt.Scan(&age)
 	// fmt.Scan(&name)
 	fmt.Scan(&age, &name)
